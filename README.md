@@ -6,4 +6,3 @@ Meu nome é Eduardo Sousa
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento de meus projetos desenvolvidos
 
-![](https://tenor.com/pt-BR/view/goku-gif-14603776544511037445)
